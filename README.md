@@ -1,4 +1,4 @@
-## Demo:https://cbtruong.github.io/-ReactJs-Portfolio-/
+## Demo:https://cbtruong.github.io/ReactJs-Portfolio/
 
 
 # Create project:
